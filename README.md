@@ -27,3 +27,7 @@ Para la resolucion se usaron las tablas disponibles en el material descargado.
 7. Promedio de los pagos que realizo un pasajero:
 
 `SELECT AVG(monto) FROM pago WHERE idpasajero='algun id de pasajero'`
+
+***
+## Tema 2:
+
